@@ -1,7 +1,7 @@
 
-# Imesha Sudasingha
+# Hi! I'm Imesha
 
-Software Engineer | Member @The Apache Software Foundation | PMC Chair @Apache OODT
+Senior Software Engineer [@WSO2](https://wso2.com) | Member @[The Apache Software Foundation](https://www.apache.org) | PMC Chair @[Apache OODT](https://oodt.apache.org)
 
 - Linkedin - https://www.linkedin.com/in/imeshasudasingha/
 - Blog - https://loneidealist.medium.com
